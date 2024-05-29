@@ -20,4 +20,4 @@ This script automates the process of analyzing APK files to identify encryption 
 ## Usage
 
 ```bash
-./script.sh <apk_file>
+./analyze.sh <apk_file>
